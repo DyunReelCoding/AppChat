@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232202346938",
+    "project_id": "webchat-f8790",
+    "storage_bucket": "webchat-f8790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232202346938:android:9e2c2171c848ef421ebd83",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTq5ztSQQdljr6MzSE8It98EUl9ehta7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232202346938:android:e4442abf56b44fb41ebd83",
+        "android_client_info": {
+          "package_name": "com.example.webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTq5ztSQQdljr6MzSE8It98EUl9ehta7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
